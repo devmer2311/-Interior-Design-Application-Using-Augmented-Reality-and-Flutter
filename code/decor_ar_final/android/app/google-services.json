@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "339472854852",
+    "firebase_url": "https://decorar-studio0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "decorar-studio0",
+    "storage_bucket": "decorar-studio0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339472854852:android:30f2d54016ebfc8ab33111",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-BqQJvX4fonZt9LGCY8NIJFwpcN4_Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
